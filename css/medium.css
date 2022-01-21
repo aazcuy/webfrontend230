@@ -1,0 +1,44 @@
+@media only screen and (min-width: 32.5em) {
+
+    header{
+    
+        height: 251px;
+        border-radius: 15px;
+        
+    }
+    
+    h1{
+        font-size: 35px;
+        text-shadow: 1px 1px #6b0a0b;
+        margin-top: -120px;
+        margin-right: -155px;
+       
+        
+    
+    }
+
+    h2{
+        font-size: 30px;
+        text-align: center;
+        color: #6b0a0b;
+       
+    }
+
+    img{
+    
+        box-shadow: 0 0 8px black;
+        margin-left:20px;
+        margin-top: 25px;
+       
+    }
+
+    footer{
+        border-radius:15px;
+        font-size: large;
+        font-weight: 100;
+        
+    }
+
+
+
+}

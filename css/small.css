@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@100;500&display=swap');
+
+body{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+img{
+    
+    width: 152px;
+    box-shadow: 0 0 8px black;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+header{
+    background-color:#F05D5E;
+    width: 100%;
+    height: 300px;
+    
+}
+
+h1{
+    color:white;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    text-shadow:1px 1px #6b0a0b;
+
+}
+
+h2{
+    color: #6b0a0b;
+    font-family: 'Lora';
+    font-size: 26px;
+    text-align: center;
+   
+}
+
+ul li{
+    font-family: 'Lora';
+    font-size: 16px;
+    line-height: 1.8;
+
+}
+
+p{
+    font-family: 'Montserrat';
+    font-weight: 100;
+    font-size: medium;
+}
+
+footer{
+    background-color:#F05D5E;
+    width: 100%;
+    height: 100px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: medium;
+    color:white;
+    text-align: center;
+    
+}
